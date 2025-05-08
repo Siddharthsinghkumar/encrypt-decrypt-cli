@@ -65,6 +65,8 @@ The script will display both the encrypted and decrypted messages.
 ```
 ├── LICENSE
 ├── README.md
+├── Results
+  └── result.png
 ├── encrypt_v-4.py    # Main encryption/decryption script
 └── .gitignore        # Ignore Python cache files, etc.
 ```
@@ -84,13 +86,7 @@ Decrypted message: Hello, World! 123
 
 ## Contributing
 
-1. Fork the repository.
-2. Create a branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
----
+This project was solely developed and maintained by me. If you encounter any issues or have suggestions, feel free to open an issue in this repository.
 
 ## License
 
